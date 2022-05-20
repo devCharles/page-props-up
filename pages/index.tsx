@@ -1,4 +1,4 @@
-import type { GetStaticPropsResult, NextPage } from "next";
+import type { GetStaticPropsResult } from "next";
 
 type Props = {
   hideLayout: boolean;
